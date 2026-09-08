@@ -28,6 +28,6 @@ img{
     height: auto;
 }
 
-main{
+main {
     grid-column: span 4;
 }
