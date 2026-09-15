@@ -1,3 +1,8 @@
+.bg-yellow {
+    background: #F7D842;
+    color: #111111;
+}
+
 main {
     grid-column: span 4;
 }
