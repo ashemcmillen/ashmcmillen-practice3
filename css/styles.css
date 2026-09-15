@@ -1,5 +1,5 @@
 .bg-yellow {
-    background: #F7D842;
+    background: #F7EC59;
     color: #111111;
 }
 
@@ -11,8 +11,9 @@ h2 {
     font-size: 24px;
 }
 
-.bg-blue {
-    background: #1356A2;
+.bg-green {
+
+    background: #59F79D;
     color: #FFFFFF;
 }
 
@@ -20,8 +21,8 @@ aside {
     grid-column: span 1;
 }
 
-.bg-red {
-    background: #d40920;
+.bg-pink {
+    background: #F759B3;
     color: #FFFFFF;
 }
 
@@ -48,8 +49,8 @@ h1 {
     padding: 16px;
 }
 
-.bg-white {
-    background: #FFFFFF;
+.bg-purple {
+    background: #5964F7;
     color: #111111;
 }
 
